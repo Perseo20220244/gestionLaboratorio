@@ -1,0 +1,17 @@
+:root {
+    --primary: #00766d;
+    --primaryHover: #09958C;
+    --blanco: #FFFFFF;
+    --whiteHover: #ddd;
+    --shading: #e4f9ea;
+    --body-color:#3d4954;
+}
+
+.primary_color {
+    color: var(--primary);
+}
+.containerOne {
+    width: fit-content;
+    height: auto;
+}
+
